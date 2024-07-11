@@ -1,0 +1,28 @@
+etapa 1: Nav
+
+etapa 2: container 
+	div "app"
+
+etapa 3: const vm = new Vue
+		el: '#app',
+	
+etapa 4: divs tipos
+
+etapa  5: imgs - metodo propriedade computada
+
+etapa  6: criar computed  "array"
+
+etapa  7:  add os value nos inputs 
+ 		v-model
+
+etapa  8:  add DATA
+
+etapa  9:  fazer pedido div botao == Method
+etapa  10: Method pedido
+etapa  11: v-if na div Pao 
+
+etapa  12:  div  Dados cliente --- renderização condicional
+etapa  13: botao voltar para o lanche
+etapa  14: confirmar pedido
+etapa  15:  novo pedido / repetir
+etapa  16:  time out 
